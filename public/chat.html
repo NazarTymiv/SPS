@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="chat">
+            <div class="caht__header">
+                <div class="miantitle block">
+                    <div class="miantitle__logo">
+                        <div class="miantitle__logo-line"></div>
+                        <div class="miantitle__logo-line"></div>
+                        <div class="miantitle__logo-circle"></div>
+                    </div>
+                    <h1 class="miantitle-text">SPS</h1>
+                </div>
+                <a href="index.html" class="caht__header-btn">Leave Room</a>
+            </div>
+            <div class="chat__content">
+                <div class="chat__info">
+                    <h3 class="chat__info-title">SATURN</h3>
+                    <ul class="chat__info-users">
+                        <li class="chat__info-user">Molni</li>
+                        <li class="chat__info-user">TripToon</li>
+                        <li class="chat__info-user">Zeero</li>
+                    </ul>
+                </div>
+                <div class="chat__mainwall">
+                    <div class="chat__message">
+                        <div class="chat__message-top">
+                            <p class="chat__message-name">TripToon</p>
+                            <p class="chat__message-date">2:48 pm</p>
+                        </div>
+                        <p class="chat__message-text">Hello world!</p>
+                    </div>
+                    <div class="chat__message">
+                        <div class="chat__message-top">
+                            <p class="chat__message-name">Maks</p>
+                            <p class="chat__message-date">2:50 pm</p>
+                        </div>
+                        <p class="chat__message-text">Hey bro</p>
+                    </div>
+                    <div class="chat__message">
+                        <div class="chat__message-top">
+                            <p class="chat__message-name">Zeero</p>
+                            <p class="chat__message-date">2:51 pm</p>
+                        </div>
+                        <p class="chat__message-text">Hello!</p>
+                    </div>
+                </div>
+                <div class="chat__form-container">
+                    <form class="chat__form">
+                        <input type="text" id="msg" placeholder="Enter message..." required autocomplete="off">
+                        <button type="submit" class="chat__form-btn">Send</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
