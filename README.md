@@ -44,11 +44,11 @@ This chat is anonymous because you can put there any name you want and it will n
   </a>
 
   <a href="https://www.w3schools.com/css/" style="margin-right: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="Logo" width="50">
+      <img src="https://dev.iamvdo.me/css3.png" alt="Logo" width="50">
   </a>
 
   <a href="https://www.w3schools.com/js/" style="margin-right: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="Logo" width="50">
+      <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="Logo" width="50">
   </a>
 
   <a href="https://nodejs.org/en" style="margin-right: 15px;">
@@ -60,7 +60,7 @@ This chat is anonymous because you can put there any name you want and it will n
   </a>
   
   <a href="https://www.figma.com/" style="margin-right: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" alt="Logo" width="50">
+      <img src="https://cdn.sanity.io/images/599r6htc/regionalized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png" alt="Logo" width="50">
   </a>
 </div>
 
